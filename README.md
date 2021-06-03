@@ -1,8 +1,8 @@
 # Font Awesome 5 Free
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/font-awesome.svg)](https://github.com/gaomingcode/font-awesome)
-[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/font.awesome)](https://github.com/gaomingcode/font-awesome)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/font.awesome)](https://github.com/gaomingcode/font-awesome)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/font-awesome)](https://github.com/gaomingcode/font-awesome)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/font-awesome)](https://github.com/gaomingcode/font-awesome)
 
 ## Installation
 
