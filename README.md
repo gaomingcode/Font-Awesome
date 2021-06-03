@@ -9,7 +9,7 @@
 ### Composer
 
 ```
-composer require gaomingcode/font.awesome
+composer require gaomingcode/font-awesome
 ```
 ###
 
