@@ -1,4 +1,17 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-free.svg" alt="Font Awesome 5 Free" width="50%"></h1>
+# Font Awesome 5 Free
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/font-awesome.svg)](https://github.com/gaomingcode/font-awesome)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/font.awesome)](https://github.com/gaomingcode/font-awesome)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/font.awesome)](https://github.com/gaomingcode/font-awesome)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/font.awesome
+```
+###
 
 > Version 5 – the iconic SVG, font, and CSS framework
 
